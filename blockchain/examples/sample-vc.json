@@ -1,0 +1,14 @@
+{
+  "@context": ["https://www.w3.org/2018/credentials/v1"],
+  "id": "urn:uuid:vc-example-1",
+  "type": ["VerifiableCredential","DegreeCredential"],
+  "issuer": "did:university:msec",
+  "issuanceDate": "2025-09-12T10:00:00Z",
+  "credentialSubject": {
+    "id": "did:student:hari123",
+    "name": "Hari Kumar",
+    "degree": "B.E CSE",
+    "year": "2025",
+    "gpa": "8.5"
+  }
+}

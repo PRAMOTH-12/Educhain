@@ -144,7 +144,7 @@ status   // Verified / Failed
 
 🔐 Security Features
 
-* *SHA-256 hashing* → ensures tamper-proof credentials.
+*  hashing → ensures tamper-proof credentials.
 * *Blockchain immutability* → trusted verification.
 * *IPFS storage* → decentralized & scalable.
 * *Selective disclosure* → students control data sharing.
